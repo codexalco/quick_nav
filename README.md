@@ -21,7 +21,7 @@ The plugin is exclusively designed for Android, leveraging its unique capability
 ## _Usage_
 1- First, add the package to your application in the `pubspec.yaml` file
 ```yml
-    awesome_bubble: ^updated_version
+    quick_nav: ^updated_version
 ```
 
 2- Navigate to the AndroidManifest.xml file to incorporate necessary permissions for the app's functionality.
