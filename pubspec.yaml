@@ -1,6 +1,6 @@
 name: quick_nav
 description: A Flutter Plugin for displaying Messenger QuickNav above all apps. This plugin provides overlay QuickNav and notifications.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/codexalco/quick_nav
 
 environment:
